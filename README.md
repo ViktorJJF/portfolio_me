@@ -1,20 +1,53 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Viktor Jimenez - Portfolio
 
-# Run and deploy your AI Studio app
+## Full Stack Developer & Cognitive Developer
 
-This contains everything you need to run your app locally.
+Computer Engineer | PhD in Administration
 
-View your app in AI Studio: https://ai.studio/apps/drive/13L5uUttJFLdrBVA2CT4Xc1OsAAMjpKj5
+### About Me
 
-## Run Locally
+I am a Computer and Systems Engineer from the National University Jorge Basadre Grohmann. I have solid experience as a Full Stack Developer, primarily using Python and Node.js. My current focus is on Artificial Intelligence technologies, developing chatbots, virtual assistants, and RAG architectures for startups. I hold an MBA and a PhD in Administration, allowing me to apply a strategic business vision to software development.
 
-**Prerequisites:**  Node.js
+### Specialization
 
+- **Web Development**: MEVN Stack specialist
+- **AI Development**: Creating intelligent agents and chatbots
+- **Current Focus**: Building AI agents for WhatsApp and Instagram Messenger
+- **Research**: RENACYT Researcher in Artificial Intelligence and Intelligent Software Development
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Academic Background
+
+- **PhD in Administration** - César Vallejo University (2024)
+- **Master of Business Administration (MBA)** - Neumann Business School (2021)
+- **Computer and Systems Engineer** - National University Jorge Basadre Grohmann (2018)
+
+### Research & Science
+
+- **RENACYT Researcher**
+- **María Rostworowski III Group - Code P0108504**
+- **Research Area**: Artificial Intelligence and Intelligent Software Development
+- **Scopus Author ID**: 57219005617
+- **ORCID**: 0000-0002-1034-9447
+
+### Connect With Me
+
+- **GitHub**: [ViktorJJF](https://github.com/ViktorJJF)
+- **LinkedIn**: [Victor Juan Jimenez](https://www.linkedin.com/in/victorjuanjimenez)
+- **YouTube**: [Viktor Jimenez](https://www.youtube.com/c/ViktorJimenezF)
+- **Instagram**: [@viktorjjf](https://www.instagram.com/viktorjjf/)
+- **Facebook**: [Viktor Jimenez](https://www.facebook.com/viktorjjf)
+- **Email**: vj.jimenez96@gmail.com
+
+### Mentoring Services
+
+I offer personalized 60-minute mentoring sessions on:
+- Web development
+- Artificial intelligence
+- Software architecture
+- Professional career path
+
+**Investment**: $33 USD
+
+### Location
+
+📍 Peru
