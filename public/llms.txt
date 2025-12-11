@@ -1,0 +1,47 @@
+# Victor Jimenez - Full Stack Developer & AI Specialist
+
+> Personal portfolio and professional profile of Victor Juan Jimenez Flores, a Full Stack Developer and AI Specialist based in Peru.
+
+## About
+
+Victor Jimenez is a Computer and Systems Engineer with a PhD in Administration. He specializes in:
+- Full Stack Development (Python, Node.js, Vue.js, React)
+- AI Agent Development (Chatbots, Virtual Assistants, RAG Architectures)
+- WhatsApp and Instagram Messenger bots
+- MEVN Stack (MongoDB, Express, Vue.js, Node.js)
+
+## Contact
+
+- Email: vj.jimenez96@gmail.com
+- GitHub: https://github.com/ViktorJJF
+- LinkedIn: https://www.linkedin.com/in/victorjuanjimenez
+- YouTube: https://www.youtube.com/c/ViktorJimenezF
+
+## Services
+
+Victor offers 1:1 mentoring sessions on:
+- Web Development
+- Artificial Intelligence
+- Software Architecture
+- Professional Career Development
+
+## Research
+
+- RENACYT Researcher (Peru)
+- María Rostworowski III Group - Code P0108504
+- Scopus Author ID: 57219005617
+- ORCID: 0000-0002-1034-9447
+
+## Education
+
+- PhD in Administration - César Vallejo University (2024)
+- MBA - Neumann Business School (2021)
+- Computer and Systems Engineer - Universidad Nacional Jorge Basadre Grohmann (2018)
+
+## Location
+
+Peru
+
+## Full Documentation
+
+For more details: https://viktorjimenez.com/llms-full.txt

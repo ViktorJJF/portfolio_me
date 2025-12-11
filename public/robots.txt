@@ -1,0 +1,10 @@
+# robots.txt for viktorjimenez.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://viktorjimenez.com/sitemap.xml
+
+# LLMs.txt - AI/LLM guidelines
+# See: https://viktorjimenez.com/llms.txt

@@ -1,0 +1,129 @@
+# Victor Juan Jimenez Flores - Complete Professional Profile
+
+## Overview
+
+Victor Juan Jimenez Flores (also known as Viktor Jimenez) is a Full Stack Developer, Cognitive Developer, and AI Specialist based in Peru. He combines technical expertise in software development with academic credentials in business administration.
+
+## Professional Summary
+
+Victor is a Computer and Systems Engineer from the Universidad Nacional Jorge Basadre Grohmann with solid experience as a Full Stack Developer. He primarily uses Python and Node.js for backend development. His current focus is on Artificial Intelligence technologies, developing chatbots, virtual assistants, and RAG (Retrieval-Augmented Generation) architectures for startups.
+
+He holds an MBA and a PhD in Administration, which allows him to apply a strategic business vision to software development projects.
+
+## Technical Skills
+
+### Backend & Languages
+- Python
+- Node.js
+- TypeScript
+- JavaScript
+
+### Frontend & UI
+- Vue.js
+- React
+- Tailwind CSS
+- HTML/CSS
+
+### Artificial Intelligence
+- OpenAI API
+- LangChain
+- RAG Architectures
+- Chatbot Development
+- Virtual Assistants
+- WhatsApp Bots
+- Instagram Messenger Bots
+
+### Databases & DevOps
+- MongoDB
+- PostgreSQL
+- MySQL
+- Docker
+- Git/GitHub
+
+### Frameworks & Stacks
+- MEVN Stack (MongoDB, Express, Vue.js, Node.js)
+- Express.js
+- FastAPI
+
+## Education
+
+### Doctor en Administración (PhD in Administration)
+- Institution: Universidad César Vallejo
+- Year: 2024
+
+### Master of Business Administration (MBA)
+- Institution: Neumann Business School
+- Year: 2021
+
+### Ingeniero en Informática y Sistemas (Computer and Systems Engineer)
+- Institution: Universidad Nacional Jorge Basadre Grohmann
+- Year: 2018
+
+## Research & Academic Work
+
+Victor is a registered researcher in Peru's national research registry:
+
+- Status: RENACYT Researcher
+- Research Group: María Rostworowski III - Code P0108504
+- Research Area: Artificial Intelligence and Intelligent Software Development
+- Scopus Author ID: 57219005617
+- ORCID: 0000-0002-1034-9447
+- CTI Vitae Profile: http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=108504
+
+## Services Offered
+
+### 1:1 Mentoring Sessions
+Victor offers personalized 60-minute mentoring sessions covering:
+- Web Development (Frontend & Backend)
+- Artificial Intelligence & Machine Learning
+- Software Architecture & System Design
+- Professional Career Development & Growth
+
+Investment: $33 USD per session
+
+### Development Services
+- Custom AI Agent Development
+- WhatsApp Bot Development
+- Instagram Messenger Bot Development
+- Full Stack Web Application Development
+- RAG Architecture Implementation
+- Chatbot and Virtual Assistant Creation
+
+## Current Focus
+
+Victor is currently specializing in building AI agents for messaging platforms, particularly:
+- WhatsApp Business API integrations
+- Instagram Messenger automation
+- Custom chatbot solutions for businesses
+- RAG-based knowledge assistants
+
+## Contact Information
+
+- Email: vj.jimenez96@gmail.com
+- Website: https://viktorjimenez.com
+- GitHub: https://github.com/ViktorJJF
+- LinkedIn: https://www.linkedin.com/in/victorjuanjimenez
+- YouTube: https://www.youtube.com/c/ViktorJimenezF
+- Instagram: https://www.instagram.com/viktorjjf/
+- Facebook: https://www.facebook.com/viktorjjf
+
+## Location
+
+Based in Peru, available for remote work worldwide.
+
+## Languages
+
+- Spanish (Native)
+- English (Professional)
+
+## Availability
+
+Currently available for:
+- Freelance projects
+- Consulting engagements
+- Mentoring sessions
+- Speaking opportunities
+
+---
+
+Last updated: December 2024
